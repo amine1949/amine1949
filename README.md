@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is BARIK Mohamed Amine and I'm a Front end Developer, from Morocco</h2>
+<h2 align="left">Hi 👋! My name is BARIK Mohamed Amine and I'm a Front end Developer, from Morocco</h2>
 
 ###
 
@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-659.gif"  />
+<div align="center">
+  <img height="300" src="https://www.icegif.com/wp-content/uploads/2022/04/icegif-659.gif"  />
+</div>
 
 ###
 
