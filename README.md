@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="https://giffiles.alphacoders.com/350/35062.gif"  />
+  <img height="400" src="https://giffiles.alphacoders.com/350/35062.gif"  />
 </div>
 
 ###
