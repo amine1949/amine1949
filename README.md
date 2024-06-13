@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is BARIK Mohamed Amine and I'm a Front end Developer, from Morocco</h2>
+<h2 align="center">Hi 👋! My name is BARIK Mohamed Amine and I'm a Front end Developer, from Morocco</h2>
 
 ###
 
